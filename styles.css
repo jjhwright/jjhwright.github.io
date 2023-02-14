@@ -2,13 +2,15 @@ body {
   background-color: #1A355B;
   font-family: 'Verdana';
 }
-h1 {
+
+.main.h1 {
   color: white;
   margin: 10px;
+  margin-bottom: 120px;
   font-size: 250%;
 }
 
-p.pee, p.pee a {
+.main.p.pee, .main.p.pee a {
   color: white;
   margin: 5px;
   font-weight: bold;
@@ -16,6 +18,14 @@ p.pee, p.pee a {
   text-decoration: none;
 }
 
-p.pee a:hover {
+.main.p.pee a:hover {
   text-decoration: underline;
+}
+
+.btm{
+  color: white;
+  bottom:0px;
+  padding: 5px;
+  width:100%;
+  font-size:20%;
 }
