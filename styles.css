@@ -3,7 +3,7 @@ body {
   font-family: 'Verdana';
 }
 
-.main h1 {
+.main h1 a{
   color: white;
   margin: 10px;
   margin-bottom: 80px;
