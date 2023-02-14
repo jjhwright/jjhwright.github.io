@@ -3,14 +3,14 @@ body {
   font-family: 'Verdana';
 }
 
-.main.h1 {
+.main h1 {
   color: white;
   margin: 10px;
   margin-bottom: 120px;
   font-size: 250%;
 }
 
-.main.p.pee, .main.p.pee a {
+.main p.pee, .main p.pee a {
   color: white;
   margin: 5px;
   font-weight: bold;
@@ -18,14 +18,15 @@ body {
   text-decoration: none;
 }
 
-.main.p.pee a:hover {
+.main p.pee a:hover {
   text-decoration: underline;
 }
 
 .btm{
   color: white;
+  text-align: center;
   bottom:0px;
   padding: 5px;
   width:100%;
-  font-size:20%;
+  font-size:50%;
 }
